@@ -12,7 +12,10 @@ const Navbar = () => {
   };
 
   useEffect(() => {
+    console.log("Nav check")
+
     console.log(loginCheck);
+    console.log("Nav check")
     checkLogin();
   }, [loginCheck])
 

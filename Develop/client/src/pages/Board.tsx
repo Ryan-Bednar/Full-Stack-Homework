@@ -18,6 +18,8 @@ const Board = () => {
 
   const checkLogin = () => {
     if(auth.loggedIn()) {
+      console.log(auth.loggedIn())
+      console.log("Board check")
       setLoginCheck(true);
     }
   };
