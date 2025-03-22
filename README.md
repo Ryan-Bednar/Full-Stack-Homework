@@ -4,6 +4,8 @@
 
 This app gives the user the ability to login to view their kan ban board. Users can create tasks, update tasks, and delete tasks. The user is also able to log out of their account if they wish.
 
+Users can log in using the seeded user JollyGuru and the password: password
+
 ## Deployed App
 
 https://full-stack-homework.onrender.com
